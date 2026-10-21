@@ -10,7 +10,7 @@ These are my own concept demos. They are not course assignments or solutions.
 
 | Topic | What it shows | Source |
 |-------|---------------|--------|
-| _coming soon_ | | |
+| [Toy CPU](toy-cpu/) | The fetch-decode-execute cycle: a C `while` loop run as machine instructions, step by step | CX651 Week 1 |
 
 ## Run it
 
